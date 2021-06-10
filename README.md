@@ -1,1 +1,1 @@
-# trex-new-VR
+# T-rex-Game-VR
